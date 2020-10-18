@@ -1,8 +1,7 @@
 ### Hey there, this is Dhruv Panchal 👋
 
-### I'm a Student and Developer!
+#### I am a Computer Engineering Student pursuing degree from L.J. Institute of Engineering and Technology and currently involved in Competitive Programming with high problem solving skills focusing on learning and developing my skills. 
 - 🔭 I’m currently focusing on Competitive Programming.
-- 🌱 I’m currently learning Data Science.
 - 🤓 I’m looking to collaborate with Open Source projects.
 
 ### Connect with me:
