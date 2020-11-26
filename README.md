@@ -6,7 +6,7 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 - 🔭 I’m currently involved in Competitive Programming.
 - 📈 Highly passionate about Data Science and Machine Learning.
 - 🤓 I’m looking to collaborate with Python 🐍 projects.
-- 📝 See me [Resume](https://github.com/dhhruv/dhhruv.github.io/blob/master/assets/Dhruv's%20Resume.pdf) to get more info.
+- 📝 See me [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true" alt="dhhruv" /> </p>
 
