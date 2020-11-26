@@ -4,6 +4,8 @@
 - 🔭 I’m currently focusing on Competitive Programming.
 - 🤓 I’m looking to collaborate with Python 🐍 projects.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true" alt="dhhruv" /> </p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhhruv/)
