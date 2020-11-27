@@ -19,6 +19,4 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 
 ###
 
-<p align="center">
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
-</p>
+Show some ❤️ by starring some of the repositories!
