@@ -18,6 +18,9 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true" alt="dhhruv" /> </p>
+<br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&layout=compact" alt="dhhruv" /> </p>
+<br>
 
 <p align="center">
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
