@@ -1,6 +1,7 @@
 ### Hello World! This is [Dhruv Panchal](https://dhhruv.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhhruv" alt="dhhruv" /> </p>
+<p align="left"> <img src="https://badges.pufler.dev/repos/dhhruv" alt="dhhruv" /> </p>
 
 I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel. 
 
@@ -18,6 +19,7 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true" alt="dhhruv" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&layout=compact" alt="dhhruv" /> </p>
+
 
 <p align="center">
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
