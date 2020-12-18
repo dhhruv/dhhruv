@@ -21,7 +21,7 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhhruv/)
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhhruv23/)
- <a href="mailto:panchaldhruvn@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="dhhruv" height="20" width="20" /></a>
+[<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:panchaldhruvn@gmail.com)
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true" alt="dhhruv" /> </p>
