@@ -14,12 +14,14 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 - 🔭 I’m currently involved in Competitive Programming.
 - 📈 Highly passionate about Data Science and Machine Learning.
 - 🤓 I’m looking to collaborate with Python 🐍 projects.
+- 📫 How to reach me  [🌐](https://dhhruv.github.io)
 - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhhruv/)
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhhruv23/)
+ <a href="mailto:panchaldhruvn@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="dhhruv" height="20" width="20" /></a>
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true" alt="dhhruv" /> </p>
