@@ -23,12 +23,12 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true" alt="dhhruv" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&layout=compact" alt="dhhruv" /> </p>
+
 
 
 <p align="center">
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 </p>
 <p align="center">
- <h4 align="center">I like to connect with different people so feel free to say hi or reach me out for any projects and discussions</h4>
+ <h4 align="center">I like to connect with different people so feel free to say hi or reach me out for any projects and discussions.</h4>
 </p>
