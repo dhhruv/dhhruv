@@ -8,6 +8,8 @@
 </p>
 
 I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel. 
+<br>
+<br>
 
 ### About Me 🚀
 - 🔭 I’m currently involved in Competitive Programming.
