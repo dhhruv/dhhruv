@@ -31,6 +31,3 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 <p align="center">
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 </p>
-<p align="center">
- <h4 align="center">I like to connect with different people so feel free to say hi or reach me out for any projects and discussions.</h4>
-</p>
