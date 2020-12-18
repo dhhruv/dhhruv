@@ -31,5 +31,5 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 </p>
 
 <p align="center">
-	<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+	<em><b>I love connecting with different people so feel free to reach me out for any projects and discussions</b> :)</em>
 </p>
