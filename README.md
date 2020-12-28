@@ -20,8 +20,8 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 ### Coding Profiles:
 [<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
 [<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
+[<img align="left" alt="BinarySearch" src="https://user-images.githubusercontent.com/72680045/103211677-dcffb180-492e-11eb-9d15-ded9c4786871.png" />](https://binarysearch.com/@/lasa73)
 <br>
-[BinarySearch](https://binarysearch.com/@/lasa73)
 
 ### Connect with me:
 
