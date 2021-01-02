@@ -3,7 +3,8 @@
 ### Hello World! This is [Dhruv Panchal](https://dhhruv.github.io/) 👋
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=dhhruv" alt="dhhruv" /> 
+	<img src="https://komarev.com/ghpvc/?username=&color=blue" alt="dhhruv" /> 
+	<img src="https://badges.pufler.dev/repos/dhhruv" alt="dhhruv" />
 </p>
 
 I am an undergrad student pursuing a Bachelor's degree in Computer Engineering from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel.
