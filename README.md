@@ -3,7 +3,7 @@
 ### Hello World! This is [Dhruv Panchal](https://dhhruv.github.io/) 👋
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=&color=blue" alt="dhhruv" /> 
+	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="dhhruv" /> 
 	<img src="https://badges.pufler.dev/repos/dhhruv" alt="dhhruv" />
 </p>
 
