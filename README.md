@@ -1,4 +1,4 @@
-<img align="left" width="180" height="180" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/102575233-bd8bac00-4118-11eb-89f5-302f8ed594f1.png" />
+<img align="left" width="180" height="180" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
 
 ### Hello World! This is [Dhruv Panchal](https://dhhruv.github.io/) 👋
 
