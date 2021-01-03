@@ -30,7 +30,7 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 [<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:180320107529.ce.dhruv@gmail.com)
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true&count_private=true&cache_seconds=1800" alt="dhhruv" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true&count_private=true&cache_seconds=1800&include_all_commits=true" alt="dhhruv" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&layout=compact&show_icons=true&count_private=true&cache_seconds=1800" alt="dhhruv" /> </p>
 
 
