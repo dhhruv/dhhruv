@@ -15,7 +15,6 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 - 🤓 I’m looking to collaborate with Python 🐍 projects.
 - 📫 How to reach me  [🌐](https://dhhruv.github.io)
 - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
-<br>
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
@@ -30,6 +29,7 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 [<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
 [<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
 [<img align="left" alt="BinarySearch" src="https://user-images.githubusercontent.com/72680045/103211911-7929b880-492f-11eb-9ea9-cafa0413fedf.png" />](https://binarysearch.com/@/lasa73)
+<br>
 <br>
 
 ### Connect with me 👋
