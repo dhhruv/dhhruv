@@ -23,7 +23,7 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 <br>
 <br>
 
-### Blog posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
