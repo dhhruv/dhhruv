@@ -25,6 +25,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
+- [YouTua - Download Videos/Playlists in your preferred Format and Quality..](https://dev.to/dhhruv/youtua-download-videos-playlists-in-your-preferred-format-and-quality-4mon)
+- [FLECK PRO - Data Hiding Software for your files in your Laptop/PC](https://dev.to/dhhruv/fleck-pro-data-hiding-software-for-your-files-in-your-laptop-pc-3e2n)
+- [EncrypC - File Encryption Application using Python](https://dev.to/dhhruv/encrypc-file-encryption-application-using-python-1cdn)
+- [Compresssio - Optimize your Images to save storage space...](https://dev.to/dhhruv/compresssio-optimize-your-images-to-save-storage-space-fcp)
+- [YouTua - Download Videos  in the best Quality available..](https://dev.to/dhhruv/youtua-download-videos-in-the-best-quality-available-ikl)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me 👋
