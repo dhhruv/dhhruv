@@ -24,11 +24,13 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 - [Compresssio - Optimize your Images to save storage space...](https://dev.to/dhhruv/compresssio-optimize-your-images-to-save-storage-space-fcp)
 - [YouTua - Download Videos  in the best Quality available..](https://dev.to/dhhruv/youtua-download-videos-in-the-best-quality-available-ikl)
 <!-- BLOG-POST-LIST:END -->
+<br>
 
 ### Coding Profiles 🧔
 [<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
 [<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
 [<img align="left" alt="BinarySearch" src="https://user-images.githubusercontent.com/72680045/103211911-7929b880-492f-11eb-9ea9-cafa0413fedf.png" />](https://binarysearch.com/@/lasa73)
+<br>
 <br>
 <br>
 
