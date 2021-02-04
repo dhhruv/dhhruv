@@ -15,12 +15,6 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 - 🤓 I’m looking to collaborate with Python 🐍 projects.
 - 📫 How to reach me  [🌐](https://dhhruv.github.io)
 - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
-
-### Coding Profiles 🧔
-[<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
-[<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
-[<img align="left" alt="BinarySearch" src="https://user-images.githubusercontent.com/72680045/103211911-7929b880-492f-11eb-9ea9-cafa0413fedf.png" />](https://binarysearch.com/@/lasa73)
-<br>
 <br>
 
 ### Blog posts 🏷
@@ -32,11 +26,18 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 - [YouTua - Download Videos  in the best Quality available..](https://dev.to/dhhruv/youtua-download-videos-in-the-best-quality-available-ikl)
 <!-- BLOG-POST-LIST:END -->
 
+### Coding Profiles 🧔
+[<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
+[<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
+[<img align="left" alt="BinarySearch" src="https://user-images.githubusercontent.com/72680045/103211911-7929b880-492f-11eb-9ea9-cafa0413fedf.png" />](https://binarysearch.com/@/lasa73)
+<br>
+
 ### Connect with me 👋
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhhruv/)
 [<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhhruv23/)
 [<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:180320107529.ce.dhruv@gmail.com)
+[<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://dhhruv.medium.com/)
 <a href="https://dev.to/dhhruv">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhruv Panchal's DEV Community Profile" height="35" width="35">
 </a>
