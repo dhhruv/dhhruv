@@ -18,11 +18,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
+- [Facing Problems while Downloading Videos from websites? Here's a Solution..](https://dev.to/dhhruv/facing-problems-downloading-videos-from-websites-here-s-a-solution-2m06)
 - [Unbeatable Tic Tac Toe Game using Minimax](https://dev.to/dhhruv/unbeatable-tic-tac-toe-game-using-minimax-ogn)
 - [Contactless Attendance System](https://dev.to/dhhruv/contactless-attendance-system-3j1j)
 - [YouTua - Download Videos/Playlists in your preferred Format and Quality..](https://dev.to/dhhruv/youtua-download-videos-playlists-in-your-preferred-format-and-quality-4mon)
 - [FLECK PRO - Data Hiding Software for your files in your Laptop/PC](https://dev.to/dhhruv/fleck-pro-data-hiding-software-for-your-files-in-your-laptop-pc-3e2n)
-- [EncrypC - File Encryption Application using Python](https://dev.to/dhhruv/encrypc-file-encryption-application-using-python-1cdn)
 <!-- BLOG-POST-LIST:END -->
 
 ### Coding Profiles 🧔
