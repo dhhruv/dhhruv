@@ -58,6 +58,4 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 <br>
 <br>
-<p align="center">
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
-</p>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
