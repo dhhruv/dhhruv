@@ -9,9 +9,6 @@
 I am an undergrad student pursuing a Bachelor's degree in Computer Engineering from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel.
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### About Me 🚀
 
@@ -23,6 +20,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 - 💬 Ask me about anything, I am happy to help 😄
 - 📫 How to reach me  [🌐](https://dhhruv.github.io)
 - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
+
+<br>
+<br>
+<br>
+<br>
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
