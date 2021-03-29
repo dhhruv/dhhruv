@@ -10,9 +10,10 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 <br>
 <br>
 
-### About Me 🚀
 
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### About Me 🚀
 
 - 🔭 I’m currently involved in Competitive Programming.
 - 📈 Highly passionate about Data Science and Machine Learning.
