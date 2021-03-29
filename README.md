@@ -22,9 +22,6 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
 
 <br>
-<br>
-<br>
-<br>
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
