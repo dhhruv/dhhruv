@@ -53,8 +53,8 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 <br>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true&count_private=true&cache_seconds=2000&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="dhhruv" width="60%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000&layout=compact&hide_border=true&theme=radical" alt="dhhruv" width="37%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true&count_private=true&cache_seconds=2000&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="dhhruv" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000&layout=compact&hide_border=true&theme=radical" alt="dhhruv" width="37%" />
 
 
 <p align="center">
