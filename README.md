@@ -32,6 +32,8 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 - [Unbeatable Tic Tac Toe Game using Minimax](https://dev.to/dhhruv/unbeatable-tic-tac-toe-game-using-minimax-ogn)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+
 ### Coding Profiles 🧔
 [<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
 [<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
@@ -49,6 +51,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhruv Panchal's DEV Community Profile" height="35" width="35">
 </a>
 <br>
+
+  <img align="left" src="https://github-readme-stats.dhhruv.vercel.app/api?username=dhhruv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dhruv's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.dhhruv.vercel.app/api/top-langs/?username=dhhruv&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Dhruv's Top Languages">
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true&count_private=true&cache_seconds=2000&include_all_commits=true" alt="dhhruv" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000&layout=compact" alt="dhhruv" /> </p>
