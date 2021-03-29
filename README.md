@@ -8,6 +8,10 @@
 
 I am an undergrad student pursuing a Bachelor's degree in Computer Engineering from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel.
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### About Me 🚀
 
