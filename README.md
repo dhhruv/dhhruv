@@ -26,11 +26,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
+- [YouTua - Complete Solution for Downloading Videos/Playlists from various websites](https://dev.to/dhhruv/youtua-complete-solution-for-downloading-videos-playlists-from-various-websites-3b3)
 - [Pixxia - Compress/Optimize your Images to save storage space...](https://dev.to/dhhruv/pixxia-compress-optimize-your-images-to-save-storage-space-43g6)
 - [Pixxia - Complete Solution for Compression of JPG/PNG Images to save Storage Space..](https://dev.to/dhhruv/pixxia-complete-solution-for-compression-of-jpg-png-files-to-save-space-4mj1)
 - [YouTua - Complete Solution for Downloading Videos/Playlists from various websites](https://dev.to/dhhruv/youtua-complete-solution-for-downloading-videos-playlists-from-various-websites-3pkh)
 - [Facing Problems while Downloading Videos from websites? Here's a Solution..](https://dev.to/dhhruv/facing-problems-downloading-videos-from-websites-here-s-a-solution-2m06)
-- [Unbeatable Tic Tac Toe Game using Minimax](https://dev.to/dhhruv/unbeatable-tic-tac-toe-game-using-minimax-ogn)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
