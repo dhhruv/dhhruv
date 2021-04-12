@@ -52,7 +52,7 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhruv Panchal's DEV Community Profile" height="35" width="35">
 </a>
 <br>
-
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dhhruv&theme=radical&cache_seconds=2000&show_icons=true" alt="dhhruv" width="60%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000&layout=compact&hide_border=true&theme=radical" alt="dhhruv" width="37%" />
