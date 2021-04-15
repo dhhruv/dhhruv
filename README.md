@@ -26,11 +26,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
+- [Sudoku Solver - Solve Any Sudoku Puzzle Instantly](https://dev.to/dhhruv/sudoku-solver-solve-any-sudoku-puzzle-instantly-91h)
 - [Sudoku Solver - A Visualizer made using Backtracking Algorithm](https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d)
 - [YouTua - Complete Solution for Downloading Videos/Playlists from various websites](https://dev.to/dhhruv/youtua-complete-solution-for-downloading-videos-playlists-from-various-websites-3b3)
 - [Pixxia - Compress/Optimize your Images to save storage space...](https://dev.to/dhhruv/pixxia-compress-optimize-your-images-to-save-storage-space-43g6)
 - [Pixxia - Complete Solution for Compression of JPG/PNG Images to save Storage Space..](https://dev.to/dhhruv/pixxia-complete-solution-for-compression-of-jpg-png-files-to-save-space-4mj1)
-- [YouTua - Complete Solution for Downloading Videos/Playlists from various websites](https://dev.to/dhhruv/youtua-complete-solution-for-downloading-videos-playlists-from-various-websites-3pkh)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
