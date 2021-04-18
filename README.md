@@ -26,11 +26,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
+- [Pixxia - Compress your Images in Optimal Quality for FREE](https://dev.to/dhhruv/pixxia-compress-your-images-in-optimal-quality-for-free-8mi)
 - [Tic-Tac-Toe you can't beat...](https://dev.to/dhhruv/tic-tac-toe-you-can-t-beat-56oo)
 - [YouTua - Download any Videos Instantly...](https://dev.to/dhhruv/youtua-download-any-videos-instantly-m3f)
 - [Explaining Stack in Detail](https://dev.to/dhhruv/explaining-stack-in-detail-4ohm)
 - [Sudoku Solver - Solve Any Sudoku Puzzle Instantly](https://dev.to/dhhruv/sudoku-solver-solve-any-sudoku-puzzle-instantly-91h)
-- [Sudoku Solver - A Visualizer made using Backtracking Algorithm](https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
