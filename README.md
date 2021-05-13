@@ -26,11 +26,11 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
+- [💉 VacCoWIN - Check Available Slots for CoWIN Vaccination right from your Terminal!](https://dev.to/dhhruv/vaccowin-check-available-slots-for-cowin-vaccination-right-from-your-terminal-23f5)
 - [Contactless Attendance System based on Face Recognition](https://dev.to/dhhruv/contactless-attendance-system-based-on-face-recognition-hah)
 - [Chrome Dino Game using Python...](https://dev.to/dhhruv/chrome-dino-game-using-python-2595)
 - [Pixxia - Compress your Images in Optimal Quality for FREE](https://dev.to/dhhruv/pixxia-compress-your-images-in-optimal-quality-for-free-8mi)
 - [Tic-Tac-Toe you can't beat...](https://dev.to/dhhruv/tic-tac-toe-you-can-t-beat-56oo)
-- [YouTua - Download any Videos Instantly...](https://dev.to/dhhruv/youtua-download-any-videos-instantly-m3f)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
