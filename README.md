@@ -26,7 +26,7 @@ I am an undergrad student pursuing a Bachelor's degree in Computer Engineering f
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
-- [VacCoWIN - One Stop Solution for Booking Slots in the CoWIN Portal directly from your Terminal...](https://dev.to/dhhruv/vaccowin-one-stop-solution-for-booking-vaccination-slots-available-in-the-cowin-portal-directly-from-your-terminal-5a18)
+- [VacCoWIN - Book CoWIN Slots directly from your Terminal...](https://dev.to/dhhruv/vaccowin-book-cowin-slots-directly-from-your-terminal-bba)
 - [💉 VacCoWIN - Check Available Slots for CoWIN Vaccination right from your Terminal!](https://dev.to/dhhruv/vaccowin-check-available-slots-for-cowin-vaccination-right-from-your-terminal-23f5)
 - [Contactless Attendance System based on Face Recognition](https://dev.to/dhhruv/contactless-attendance-system-based-on-face-recognition-hah)
 - [Chrome Dino Game using Python...](https://dev.to/dhhruv/chrome-dino-game-using-python-2595)
