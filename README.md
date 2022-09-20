@@ -6,7 +6,7 @@
 	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="dhhruv" /> 
 </p>
 
-I am an undergrad student pursuing a Bachelor's degree in Computer Engineering from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel.
+I am an graduate student pursuing a Masters's degree in Applied Computer Science from Concordia University who is obsessed with the idea of improving himself and wants a platform to grow and excel.
 <br>
 <br>
 
