@@ -6,7 +6,8 @@
 	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="dhhruv" /> 
 </p>
 
-I am an graduate student pursuing a Masters's degree in Applied Computer Science from Concordia University who is obsessed with the idea of improving himself and wants a platform to grow and excel.
+I am a graduate student currently enrolled in the Masters program in Applied Computer Science at Concordia University. My passion for continuous personal and professional development drives me to seek opportunities that will enable me to enhance my skills and competencies. I am highly motivated to contribute my expertise to meaningful projects and am eager to find a platform that will support my growth and enable me to excel in my field.
+
 <br>
 <br>
 
@@ -15,12 +16,12 @@ I am an graduate student pursuing a Masters's degree in Applied Computer Science
 
 ### About Me 🚀
 
-- 🔭 I’m currently involved in Competitive Programming.
-- 📈 Highly passionate about Data Science and Machine Learning.
-- 🤓 I’m looking to collaborate with Python 🐍 projects.
-- 💬 Ask me about anything, I am happy to help 😄
-- 📫 How to reach me  [🌐](https://dhhruv.github.io)
-- 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
+- 🔭 Currently engaging in Competitive Programming activities.
+- 📈 Possess a strong passion for Data Science and Machine Learning.
+- 🤓 Seeking collaboration opportunities for Python-based 🐍 projects.
+- 💬 Always willing to offer assistance and guidance on any relevant topics.
+- 📫 Contact me via my [website](https://dhhruv.github.io).
+- 📝 Review my [Resume]((https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf)) for additional information.
 
 <br>
 
