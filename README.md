@@ -27,11 +27,11 @@ I am a graduate student currently enrolled in the Masters program in Applied Com
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
+- [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
 - [Sudoku Solver: The Ultimate Tool for Solving Puzzles with Ease](https://dev.to/dhhruv/sudoku-solver-the-ultimate-tool-for-solving-puzzles-with-ease-522b)
 - [Book CoWIN Vaccination Slots directly from your Terminal...](https://dev.to/dhhruv/book-cowin-vaccination-slots-directly-from-your-terminal-7nb)
 - [VacCoWIN - Book CoWIN Slots directly from your Terminal...](https://dev.to/dhhruv/vaccowin-book-cowin-slots-directly-from-your-terminal-bba)
 - [💉 VacCoWIN - Check Available Slots for CoWIN Vaccination right from your Terminal!](https://dev.to/dhhruv/vaccowin-check-available-slots-for-cowin-vaccination-right-from-your-terminal-23f5)
-- [Contactless Attendance System based on Face Recognition](https://dev.to/dhhruv/contactless-attendance-system-based-on-face-recognition-hah)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
